@@ -41,4 +41,13 @@ The dataset follows a **star schema**:
 - Identified top-performing products and regions.
 - Analyzed seasonal trends impacting sales and profit.
 - Highlighted top performing countries.
-- Products delivered category-wise and sub-category-wise, indicating sales and profit. 
+- Products delivered category-wise and sub-category-wise, indicating sales and profit.
+
+## 📊 Dashboard Preview
+
+### Sales Dashboard
+![Sales Dashboard](screenshots/Sales_Dashboard.png)
+
+### Profit Dashboard
+![Profit Dashboard](screenshots/Profit_Dashboard.png)
+
